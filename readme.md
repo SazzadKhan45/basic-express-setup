@@ -21,3 +21,12 @@
 
 > > > Copy paste express basic code from express
 > > > And Type i from express >> This command : npm i --save-dev @types/express
+
++++++++++++++++++++++++++
+6th Step : Visit (https://nodejs.org/en/learn/typescript/introduction)
+
+> > Run This Command : npm i -D tsx
+> > "scripts" {"dev": "npx tsx watch ./src/server.ts"}
+
+++++++++++++++++++++++++
+7th Step : dotenv i : npm install dotenv
